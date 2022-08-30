@@ -1,1 +1,1 @@
-New directory
+Changing commit from main and not terminal
